@@ -10,7 +10,7 @@
   - Pandas
   - PLotly
   
-## Display:!
+## Display:
 Overview of page
 [overview](https://user-images.githubusercontent.com/117391498/233717178-9969558c-b385-4cef-adaf-38a06f0c1544.jpeg)
 
